@@ -6,6 +6,8 @@
  
       /查战力
       /查战力 + 英雄名称 + 游戏战区序号 
+      /战力查询
+      /战力查询 + 英雄名称 + 游戏战区序号
  
  
     另战区序号：  
@@ -14,3 +16,4 @@
  效果：
  
  ![image](https://user-images.githubusercontent.com/85006030/168576657-4900deb3-5466-4f45-b286-3dbdfd734b1a.png)
+ ![image](https://user-images.githubusercontent.com/85006030/168578433-938a0cc4-0d27-4715-989b-ae75962e24fe.png)
