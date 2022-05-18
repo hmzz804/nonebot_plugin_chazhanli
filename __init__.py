@@ -6,7 +6,7 @@ from nonebot.adapters.onebot.v11 import Message
 import requests
 import json
 
-chazhanli = on_command("查战力", aliases='战力查询')
+chazhanli = on_command("查战力", aliases={'战力查询'})
 
 @chazhanli.handle()
 async def _handle(matcher: Matcher, total: Message = CommandArg()):
